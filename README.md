@@ -1,3 +1,5 @@
+Текстове пояснення до відео https://www.youtube.com/watch?v=NWMB7LT2Ckc
+
 Отримуємо та встановлюємо Arduino IDE 1.8.19
 https://www.arduino.cc/en/software
 
