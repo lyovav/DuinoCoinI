@@ -33,5 +33,7 @@ https://github.com/ThingPulse/esp8266-oled-ssd1306/
 
 
 Майнери к окрема одиниця
-Duino-Coin_2.7.4_windows.zip (скетчі)
-https://github.com/revoxhere/duino-coin/releases/tag/2.7.4
+Duino-Coin (скетчі)
+https://github.com/revoxhere/duino-coin/releases/tag/2.7.4 (неактуальна версія)
+
+https://github.com/revoxhere/duino-coin/releases/tag/3.0
