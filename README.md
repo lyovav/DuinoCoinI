@@ -4,7 +4,7 @@
 
 https://www.arduino.cc/en/software
 
-Встановлюєємо менеджери плат esp32 та esp8266
+Встановлюєємо менеджери плат esp32 та esp8266 закинути в папку C:\Program Files (x86)\Arduino\tools
 
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
 
