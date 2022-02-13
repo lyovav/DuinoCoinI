@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Плагіни для запису папки Data на esp8266 та esp32
+
 https://github.com/esp8266/arduino-esp8266fs-plugin
 
 https://github.com/me-no-dev/arduino-esp32fs-plugin
